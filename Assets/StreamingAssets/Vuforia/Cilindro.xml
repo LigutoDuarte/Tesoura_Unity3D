@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tesoura" size="1.000000 1.942337" />
+    <ImageTarget name="qr" size="1.000000 0.942629" />
+    <ImageTarget name="Calendario" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
